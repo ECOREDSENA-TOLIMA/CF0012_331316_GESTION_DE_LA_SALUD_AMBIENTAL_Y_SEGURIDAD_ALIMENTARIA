@@ -151,8 +151,8 @@ export default {
       tema: 'Gestión del proceso administrativo',
       referencia:
         'Betancourt, D. (2018). <em>Cómo hacer el análisis FODA (matriz FODA) paso a paso + ejemplo práctico.</em> Ingenio Empresa. ',
-      tipo: 'Blog',
-      link: 'www.ingenioempresa.com/matriz-foda',
+      tipo: 'Página Web',
+      link: 'https://ingenioempresa.com/matriz-foda/',
     },
     {
       tema: 'Gestión del proceso administrativo',

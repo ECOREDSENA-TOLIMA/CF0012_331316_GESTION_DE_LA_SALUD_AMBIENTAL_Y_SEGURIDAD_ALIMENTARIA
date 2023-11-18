@@ -18,7 +18,7 @@
     
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="Actividades en salud ambiental y seguridad sanitaria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Q8D_SrW58wg" title="Actividades en salud ambiental y seguridad sanitaria" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Actividades en salud ambiental y seguridad sanitaria
     
 </template>

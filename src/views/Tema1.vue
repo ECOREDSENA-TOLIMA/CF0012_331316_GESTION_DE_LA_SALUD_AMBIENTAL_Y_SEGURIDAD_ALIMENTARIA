@@ -55,7 +55,7 @@
       .col-10.col-md-3.col-lg-2
         img(src='@/assets/curso/temas/tema1/tema1-2.png', alt='')
       .col-12.col-md-9.col-lg 
-        p.mb-0 #[b Funciones administrativas:] las funciones administrativas se relacionan con la forma como se disponen los procesos administrativos dentro de una organización, con el fin de conseguir la máxima eficiencia en la realización de cada una de las tareas que, finalmente, conducirán al logro de los objetivos. Por lo general, las funciones administrativas se establecen con el fin de dirigir y controlar, de la forma más indicada, el manejo de los recursos.
+        p.mb-0 #[b Funciones administrativas:] se relacionan con la forma como se disponen los procesos administrativos dentro de una organización, con el fin de conseguir la máxima eficiencia en la realización de cada una de las tareas que, finalmente, conducirán al logro de los objetivos. Por lo general, las funciones administrativas se establecen con el fin de dirigir y controlar, de la forma más indicada, el manejo de los recursos.
     
     p.mb-4(data-aos="fade-down") De acuerdo con el autor francés Henri Fayol (Pérez, 2020), estas funciones se desarrollan de acuerdo con las etapas que se surten a lo largo del proceso administrativo:
 
@@ -132,7 +132,7 @@
             span ● Debe ser fácilmente recordada.
           li.mb-0
             span ● Su construcción debe ser participativa.
-        p Por ejemplo, la subred sur de servicios de salud en la ciudad de Bogotá tiene la siguiente misión: “La Subred Integrada de Servicios de Salud Sur E.S.E. presta Servicios de Salud a través de un Modelo de Atención Integral en Red, bajo los enfoques de gestión integral del riesgo y seguridad, fortaleciendo la formación académica orientada a la investigación científica e innovación, con un talento humano comprometido, humanizado y competente, que contribuye al mejoramiento de las condiciones de salud de nuestros usuarios urbanos y rurales de las localidades de Usme, Ciudad Bolívar, Tunjuelito y Sumapaz”. Subred Integrada de Servicios de Salud Sur E.S.E. 2018.   
+        p Por ejemplo, la subred sur de servicios de salud en la ciudad de Bogotá tiene la siguiente misión: “La Subred Integrada de Servicios de Salud Sur E.S.E., presta Servicios de Salud a través de un Modelo de Atención Integral en Red, bajo los enfoques de gestión integral del riesgo y seguridad, fortaleciendo la formación académica orientada a la investigación científica e innovación, con un talento humano comprometido, humanizado y competente, que contribuye al mejoramiento de las condiciones de salud de nuestros usuarios urbanos y rurales de las localidades de Usme, Ciudad Bolívar, Tunjuelito y Sumapaz”. Subred Integrada de Servicios de Salud Sur E.S.E. 2018.   
       .tarjeta.color-primario.p-4(titulo="Visión")
         h4 Visión
         ul.lista-ul.ms-3
@@ -390,7 +390,7 @@
       .col-10.col-md-3.col-lg-2
         img(src='@/assets/curso/temas/tema1/tema1-19.png', alt='')
       .col-12.col-md-9.col-lg 
-        p #[b Formulación de resultados:] la formulación de resultados en un programa o proyecto se relaciona con la identificación de los cambios que se pueden llegar a producir como consecuencia de las acciones llevadas a cabo en su ejecución, bien sea de forma directa o indirecta. Por ejemplo, con el desarrollo de un proyecto para la protección de un área de interés ecológico en una ciudad, los resultados directos podrían ser la conservación de especies endémicas, la recuperación de un área determinada o la protección de un determinado número de cuerpos de agua. Algunos resultados indirectos podrían ser la generación de determinado número de empleos por la reactivación de actividades turísticas, o la valorización de los predios aledaños a la zona de conservación por la recuperación paisajística. 
+        p #[b Formulación de resultados:] en un programa o proyecto se relaciona con la identificación de los cambios que se pueden llegar a producir como consecuencia de las acciones llevadas a cabo en su ejecución, bien sea de forma directa o indirecta. Por ejemplo, con el desarrollo de un proyecto para la protección de un área de interés ecológico en una ciudad, los resultados directos podrían ser la conservación de especies endémicas, la recuperación de un área determinada o la protección de un determinado número de cuerpos de agua. Algunos resultados indirectos podrían ser la generación de determinado número de empleos por la reactivación de actividades turísticas, o la valorización de los predios aledaños a la zona de conservación por la recuperación paisajística. 
 
     p.mb-5(data-aos="fade-down") La formulación de resultados es un paso importante en la formulación del proyecto debido a que esto permite medir sus impactos reales al interior de una comunidad y tener más claridad respecto a las motivaciones que se tienen para la implementación del programa o proyecto.  
 
