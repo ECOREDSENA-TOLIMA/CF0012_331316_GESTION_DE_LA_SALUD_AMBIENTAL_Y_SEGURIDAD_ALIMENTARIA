@@ -151,7 +151,7 @@
         p Continuando con el ejemplo de la Subred Sur de Servicios de Salud de la ciudad de Bogotá, se tiene que el objetivo estratégico 01 es “Consolidar el Modelo de Atención Integral en Red, garantizando la prestación de servicios integrales de salud, con enfoque en la gestión de riesgos, servicios humanizados, accesibles y oportunos, impactando positivamente las condiciones de salud de nuestros usuarios, familia y comunidad”. (Acuerdo 074 de 2020).  En el objetivo estratégico se observa claramente que este se relaciona con la misión y la visión de la E.S.E. y contribuye al cumplimiento de ambas.
       .tarjeta.color-primario.p-4(titulo="Matriz DOFA")
         h4 Matriz DOFA
-        p Matriz DOFA	Es una herramienta para la identificación de las Debilidades (D), Oportunidades (O), Fortalezas (F) y Amenazas (A) de la organización, para, a partir de ellas, establecer un plan de trabajo que permita superar las debilidades, prepararse frente a las amenazas, aprovechar las oportunidades y sacar el mejor provecho de las fortalezas. 
+        p Matriz DOFA es una herramienta para la identificación de las Debilidades (D), Oportunidades (O), Fortalezas (F) y Amenazas (A) de la organización, para, a partir de ellas, establecer un plan de trabajo que permita superar las debilidades, prepararse frente a las amenazas, aprovechar las oportunidades y sacar el mejor provecho de las fortalezas. 
           
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down-left")
       .bloque-texto-g__img(
@@ -350,7 +350,7 @@
         .titulo-sexto.color-acento-contenido.mb-1
           p.titulo.pb-0.mb-0 #[b Tabla 2.] #[i Estructura de un objetivo] 
         .tabla-a.color-acento-contenido
-          table(style="min-width:auto")
+          table(style="min-width:768px")
             thead
               tr.cabecera-a.text-center
                 th Verbo en infinitivo
@@ -690,7 +690,7 @@
         .row
           .col-md-7.mb-4.mb-md-0
             h4 Planeación
-            p Esta primera etapa comienza con la definición del tipo de personal que se requiere para el desarrollo de las actividades al interior de la organización. En esencia se debe dar respuesta a tres sencillas preguntas:
+            p Esta primera etapa comienza con la definición del tipo de personal que se requiere para el desarrollo de las actividades al interior de la organización. En esencia, se debe dar respuesta a tres sencillas preguntas:
             ul.lista-ul.ms-3
               li.mb-0
                 span ✔ ¿Qué roles se deben cubrir?
@@ -726,7 +726,7 @@
         .row
           .col-md-7.mb-4.mb-md-0
             h4 Retención 
-            p Es una de las misiones más complejas del equipo de talento humano debido a que son muchos los factores que inciden en el ambiente laboral y en la decisión de las personas de continuar o no en su posición laboral. De parte de las organizaciones la retención del talento humano se realiza mediante el diseño e implementación de estrategias como programas de capacitación, implementación de recompensas o incentivos, promociones y asignación de nuevos retos que motiven al colaborador.
+            p Es una de las misiones más complejas del equipo de talento humano debido a que son muchos los factores que inciden en el ambiente laboral y en la decisión de las personas de continuar o no en su posición laboral. De parte de las organizaciones, la retención del talento humano se realiza mediante el diseño e implementación de estrategias como programas de capacitación, implementación de recompensas o incentivos, promociones y asignación de nuevos retos que motiven al colaborador.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema1/tema1-47.png', alt='')

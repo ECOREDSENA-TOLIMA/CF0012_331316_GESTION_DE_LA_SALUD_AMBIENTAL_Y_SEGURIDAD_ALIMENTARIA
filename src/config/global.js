@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Actividades en salud ambiental y seguridad sanitaria',
     descripcionCurso:
-      'Los procesos administrativos son fundamentales para la prestación de servicios de calidad en cualquier organización, especialmente las de salud. A través de herramientas como la planeación estratégica, el diseño de indicadores, la gestión de bienes y servicios y la apropiación de una cultura de calidad es posible atender las necesidades de clientes internos y externos e, incluso, sobrepasar sus expectativas.',
+      'Los procesos administrativos son fundamentales para la prestación de servicios de calidad en cualquier organización, especialmente las de salud. A través de herramientas como la planeación estratégica, el diseño de indicadores, la gestión de bienes y servicios y la apropiación de una cultura de calidad, es posible atender las necesidades de clientes internos y externos e, incluso, sobrepasar sus expectativas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -59,6 +59,18 @@ export default {
         numero: '2',
         titulo: 'Gestión de bienes y servicios',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Normatividad vigente',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Recursos',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',

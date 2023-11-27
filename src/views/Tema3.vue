@@ -349,7 +349,7 @@
           img.d-none.d-md-block(src='@/assets/curso/temas/tema3/fig-6a.svg', alt='En la figura 6 se muestra una propuesta de estructura de documento para un manual de procedimientos.')
           img.d-block.d-md-none(src='@/assets/curso/temas/tema3/fig-6b.svg', alt='En la figura 6 se muestra una propuesta de estructura de documento para un manual de procedimientos.')
 
-    p.mb-5(data-aos="fade-down") Una herramienta que es de mucha utilidad para entender los manuales de procesos, conocerlos y apropiarlos, es lo que se conoce como un diagrama de flujo o flujograma. Esta representación gráfica permite observar el proceso, analizar sus componentes y resumir las operaciones que se dan dentro de la organización. Para ello, se ha definido una simbología por medio de la cual se ha logrado estandarizar la construcción de los flujogramas, tal como se presenta a continuación. 
+    p.mb-5(data-aos="fade-down") Una herramienta que es de mucha utilidad para entender los manuales de procesos, conocerlos y apropiarlos, es lo que se conoce como un diagrama de flujo o flujograma. Esta representación gráfica permite observar el proceso, analizar sus componentes y resumir las operaciones que se dan dentro de la organización. Para ello, se ha definido una simbología por medio de la cual se ha logrado estandarizar la construcción de los flujogramas, tal como se presenta a continuación: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-12(data-aos="fade-right")
@@ -653,7 +653,7 @@
         p Este documento es complementario a la política de calidad y en él se presenta el compromiso de la organización con respecto a la calidad. Es importante que los objetivos de calidad sean medibles y cuantificables. Este documento debe ser aprobado por el consejo de dirección, el cual, además, enriquecerá los contenidos.
       .tarjeta.color-primario.p-4(titulo="Identificar y catalogar los procesos")
         h4 Identificar y catalogar los procesos
-        p De acuerdo con la clasificación general los procesos, se subdividen en misionales, estratégicos, de apoyo y de control. En esta etapa de la implementación, es necesario que se identifiquen y se agrupen todos los procesos que tienen lugar al interior de la organización, con el fin de identificar las actividades que hacen parte de cada uno de ellos. Para esto, será importante tener en cuenta lo siguiente:
+        p De acuerdo con la clasificación general, los procesos se subdividen en misionales, estratégicos, de apoyo y de control. En esta etapa de la implementación, es necesario que se identifiquen y se agrupen todos los procesos que tienen lugar al interior de la organización, con el fin de identificar las actividades que hacen parte de cada uno de ellos. Para esto, será importante tener en cuenta lo siguiente:
         ul.lista-ul.ms-3
           li.mb-0
             span.icon ● 

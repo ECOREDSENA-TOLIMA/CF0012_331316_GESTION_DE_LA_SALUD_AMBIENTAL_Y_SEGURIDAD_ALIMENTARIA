@@ -59,10 +59,14 @@
           li
             span ● Implementar acciones en pro de la mejora del proceso. 
           
-    .row.align-items-center.mb-4(data-aos="fade-down-right")
-      .d-flex.titulo-h3
-        img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
-        h3.mb-0.ms-3 Normatividad vigente
+    //- .row.align-items-center.mb-4(data-aos="fade-down-right")
+    //-   .d-flex.titulo-h3
+    //-     img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
+    //-     h3.mb-0.ms-3 Normatividad vigente
+        
+    Separador
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.1 Normatividad vigente
 
     p.mb-3(data-aos="fade-down") Los procesos relacionados con la gestión de bienes y servicios están regidos por algunos principios normativos que tienen como objetivo ordenar los aspectos relacionados con el gasto, aumentar la eficiencia de los recursos, asegurar el manejo transparente de los bienes y reducir los riesgos asociados a actos de corrupción.
     p.mb-5(data-aos="fade-down") Algunas de las normas más destacadas en relación con la gestión de bienes y servicios son:
@@ -150,10 +154,14 @@
           li.d-block
             span ● #[b NTC GP 1000:] Norma Técnica de Calidad de la Gestión Pública.
 
-    .row.align-items-center.mb-4(data-aos="fade-down-right")
-      .d-flex.titulo-h3
-        img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
-        h3.mb-0.ms-3 Recursos
+    //- .row.align-items-center.mb-4(data-aos="fade-down-right")
+    //-   .d-flex.titulo-h3
+    //-     img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
+    //-     h3.mb-0.ms-3 Recursos
+        
+    Separador
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 2.2 Recursos
 
     p.mb-5(data-aos="fade-down") Al interior de las organizaciones, existen diferentes clases de recursos, los cuales son necesarios para que esta desarrolle su objeto. Una primera clasificación de los recursos se subdivide en:
 
