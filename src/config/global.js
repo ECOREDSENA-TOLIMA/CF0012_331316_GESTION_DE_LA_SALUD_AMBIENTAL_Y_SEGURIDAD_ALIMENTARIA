@@ -298,8 +298,7 @@ export default {
     {
       referencia:
         'Repetto, F. y Fernández, J. (2012). <em>Coordinación de políticas, programas y proyectos sociales.</em> Fundación CIPPEC. ',
-      link:
-        'http://www.cicad.oas.org/fortalecimiento_institucional/savia/talleres/6-COORDINACION/6-Coordina_politicas_programas-cippec-Unesco.pdf',
+      link: 'https://www.cippec.org/wp-content/uploads/2017/03/2425.pdf',
     },
   ],
   creditos: [
